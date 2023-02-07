@@ -1,0 +1,2 @@
+insert into REGISTRATION_USERS(username, first_name, last_name, email, mobile) values ('javatechie','java','techie','a@gmail.com','9910121314');
+insert into REGISTRATION_USERS(username, first_name, last_name, email, mobile) values ('bh','basant','hota','b@gmail.com','7735888844');
